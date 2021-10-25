@@ -42,14 +42,14 @@
     {
        "id":"6",
        "name": "Learn Wordpress",
-       "image": "https://i.ibb.co/r7kJ2mJ/wordpress.png",
+       "image": "https://i.ibb.co/JCNRq79/wordpress.png",
        "description":"Make a beautiful website without any coding just join here!!!",
        "price":89,
        "rating":4
     },
     {
        "id":"7",
-       "name": "Unity 2D Game Development",
+       "name": "Unity 2D Game Dev",
        "image": "https://i.ibb.co/CmjBzdT/unity.png",
        "description":"Zero to In Unity be a confident game developer",
        "price":399,
