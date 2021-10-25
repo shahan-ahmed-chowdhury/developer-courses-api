@@ -1,0 +1,58 @@
+[
+   {
+      "id":1,
+      "name":"Javascript Zero to Hero",
+      "description":"Zero to hero in javascript six month bootcamp join now!!!",
+      "price":199,
+      "rating":4.5
+   },
+   {
+      "id":2,
+      "name":"Python Zero to Hero",
+      "description":"Zero to hero in python six month bootcamp join now!!!",
+      "price":299,
+      "rating":5
+   },
+   {
+      "id":3,
+      "name":"C# Basic to Advance",
+      "description":"Zero to hero in C# six month bootcamp join now!!!",
+      "price":99,
+      "rating":5
+   },
+   {
+      "id":4,
+      "name":"Java Zero to Hero",
+      "description":"Zero to hero in java six month bootcamp join now!!!",
+      "price":199,
+      "rating":4.5
+   },
+   {
+      "id":5,
+      "name":"Learn React Library",
+      "description":"Basic to advance be a confident React developer",
+      "price":150,
+      "rating":4
+   },
+   {
+      "id":6,
+      "name":"Learn Wordpress",
+      "description":"Make a beautiful website without any coding just join here!!!",
+      "price":89,
+      "rating":4
+   },
+   {
+      "id":7,
+      "name":"Unity 2D Game Development",
+      "description":"Zero to In Unity be a confident game developer",
+      "price":399,
+      "rating":5
+   },
+   {
+      "id":8,
+      "name":"Learn UX/UI",
+      "description":"Zero to In UX/UI be a confident designer",
+      "price":99,
+      "rating":3.5
+   }
+]
